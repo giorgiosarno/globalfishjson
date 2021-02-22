@@ -10,14 +10,52 @@
         "geometry": {
             "type": "LineString",
             "coordinates": [
-                [9.5, 38.73],
+                [9.5, 38.83],
                 [9.5, 35],
                 [16.39, 35],
                 [16.39, 35],
-                [16.39, 38.73],
-                [9.5, 38.73]
+                [16.39, 38.83],
+                [9.5, 38.83]
             ]
         },
         "id": "b7a32e40-6ea2-4c54-9a85-9482db22ab50"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "stroke": "#f40105",
+            "stroke-width": 1,
+            "stroke-opacity": 1
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [9.503, 38.833],
+                [9.503, 35.003],
+                [16.393, 35.003],
+                [16.393, 35.003],
+                [16.393, 38.833],
+                [9.503, 38.833]
+            ]
+        },
+        "id": "89deee67-54d7-413c-bb17-6023897bb9e0"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "stroke": "#f40105",
+            "stroke-width": 1,
+            "stroke-opacity": 1
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [9.506, 38.836],
+                [9.506, 35.006],
+                [16.396, 35.006],
+                [16.396, 35.006],
+                [16.396, 38.836],
+                [9.506, 38.836]
+            ]
+        },
+        "id": "053f06c9-8fdc-4bc1-b33e-ff8010c7eafa"
     }]
 }
